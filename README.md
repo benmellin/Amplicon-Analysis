@@ -2,10 +2,8 @@
 
 -   I will be analyzing an amplicon dataset generated from DNA found in
     crushed basalts. The samples were collected in an underwater
-    mountain in the pacific ocean. I will be using a subset of this 
-    <data:https://www.frontiersin.org/articles/10.3389/fmicb.2015.01470/full>.
--   I will be closely following the analysis performed here:
-    <https://astrobiomike.github.io/amplicon/dada2_workflow_ex#extracting-the-standard-goods-from-dada2>
+    mountain in the pacific ocean. I will be using a subset of [this data.](https://www.frontiersin.org/articles/10.3389/fmicb.2015.01470/full) 
+-   I will be closely following the analysis [performed here.](https://astrobiomike.github.io/amplicon/dada2_workflow_ex#extracting-the-standard-goods-from-dada2)
 -   I hope to gain a basic understanding of amplicon analysis in R.
 
 ## Setting up our conda environment
